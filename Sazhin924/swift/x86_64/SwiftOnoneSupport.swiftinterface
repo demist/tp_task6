@@ -1,0 +1,4 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Swift version 5.2.3 (swift-5.2.3-RELEASE)
+// swift-module-flags: -disable-objc-attr-requires-foundation-module -target x86_64-unknown-linux-gnu -disable-objc-interop -enable-library-evolution -module-link-name swiftSwiftOnoneSupport -parse-stdlib -swift-version 5 -O -enforce-exclusivity=unchecked -module-name SwiftOnoneSupport
+import Swift
