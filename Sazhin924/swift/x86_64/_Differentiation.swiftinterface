@@ -1,0 +1,13 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Swift version 5.2.3 (swift-5.2.3-RELEASE)
+// swift-module-flags: -target x86_64-unknown-linux-gnu -disable-objc-interop -enable-library-evolution -module-link-name swift_Differentiation -swift-version 5 -O -enforce-exclusivity=unchecked -module-name _Differentiation
+import Swift
+public protocol Differentiable {
+  associatedtype TangentVector : Swift.AdditiveArithmetic, _Differentiation.Differentiable where Self.TangentVector == Self.TangentVector.TangentVector
+  mutating func move(along direction: Self.TangentVector)
+}
+extension Differentiable where Self == Self.TangentVector {
+  @_alwaysEmitIntoClient public mutating func move(along direction: Self.TangentVector) {
+    self += direction
+  }
+}
