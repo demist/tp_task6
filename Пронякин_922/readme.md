@@ -1,8 +1,8 @@
-Запуск:
+Запуск на Linux:
 
-Для Linux: chmod u+x app.exe
+chmod u+x app
 
-Запустить app.exe
+./app
 
 Результат:
 
