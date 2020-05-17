@@ -69,7 +69,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break:
+* who is trying to break: Пластинина
 ### Tugunchinov
 * task ok
 * not verified 
