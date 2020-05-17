@@ -104,7 +104,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Fenderov
+* who is trying to break: Fenderov Pyzh
 ### Староверов 
 * task ok
 * not verified 
