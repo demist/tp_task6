@@ -6,6 +6,8 @@ dpkg -i superflex.deb
 
 Запуск
 
-superflex
+task6
 
 ОС: Ubuntu
+
+Программа выводит строчку из песни
