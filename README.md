@@ -34,7 +34,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Столповский
+* who is trying to break: Столповский Пластинина
 ### Mikhailov
 * task ok
 * not verified 
