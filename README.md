@@ -1,42 +1,84 @@
-# Aliev
+### Aliev
 * task ok
-# Boyarnikov
+* not verified 
+* not broken
+### Boyarnikov
 * task ok
-# Fenderov
+* not verified 
+* not broken
+### Fenderov
 * task ok
-# Gamayunov
+* not verified 
+* not broken
+### Gamayunov
 * task ok
-# Gaponov
+* not verified 
+* not broken
+### Gaponov
 * task ok
-# Melnikov
+* not verified 
+* not broken
+### Melnikov
 * task ok
-# Mishin
+* not verified 
+* not broken
+### Mishin
 * task ok
-# Novichkov
+* not verified 
+* not broken
+### Novichkov
 * task ok
-# Pyzh
+* not verified 
+* not broken
+### Pyzh
 * task ok
-# Sagatbaeva
+* not verified 
+* not broken
+### Sagatbaeva
 * task ok
-# Sazhin
+* not verified 
+* not broken
+### Sazhin
 * task ok
-# Stolpovskiy
+* not verified 
+* not broken
+### Stolpovskiy
 * task ok
-# Tugunchinov
+* not verified 
+* not broken
+### Tugunchinov
 * task ok
-# Вахитов
+* not verified 
+* not broken
+### Вахитов
 * task ok
-# Дрябин
+* not verified 
+* not broken
+### Дрябин
 * task ok
-# Климов
+* not verified 
+* not broken
+### Климов
 * task ok
-# Коваль
+* not verified 
+* not broken
+### Коваль
 * task ok
-# Пластинина
+* not verified 
+* not broken
+### Пластинина
 * task ok
-# Пронякин
+* not verified 
+* not broken
+### Пронякин
 * task ok
-# Староверов 
+* not verified 
+* not broken
+### Староверов 
 * task ok
-# Сурков
+* not verified 
+* not broken
+### Сурков
 * task ok
+* not verified 
+* not broken
