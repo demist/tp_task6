@@ -69,7 +69,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Pyzh
+* who is trying to break: Пластинина Pyzh
 ### Tugunchinov
 * task ok
 * not verified 
