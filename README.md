@@ -69,7 +69,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Пластинина
+* who is trying to break: Пластинина Pyzh
 ### Tugunchinov
 * task ok
 * not verified 
@@ -84,7 +84,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break:
+* who is trying to break: Sazhin
 ### Климов
 * task ok
 * not verified 
@@ -99,7 +99,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break:
+* who is trying to break: Aliev
 ### Пронякин
 * task ok
 * not verified 
