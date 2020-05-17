@@ -9,3 +9,5 @@ dpkg -i superflex.deb
 task6
 
 ОС: Ubuntu
+
+Программа выводит строчку из песни
