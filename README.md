@@ -1,21 +1,21 @@
-##Aliev - task ok  
-##Boyarnikov - task ok 
-##Fenderov - task ok 
-##Gamayunov - task ok 
-##Gaponov - task ok 
-##Melnikov - task ok 
-##Mishin - task ok 
-##Novichkov - task ok 
-##Pyzh - task ok
-##Sagatbaeva - task ok 
-##Sazhin - task ok 
-##Stolpovskiy - task ok 
-##Tugunchinov - task ok 
-##Вахитов - task ok
-##Дрябин - task ok 
-##Климов - task ok
-##Коваль - task ok 
-##Пластинина - task ok 
-##Пронякин - task ok 
-##Староверов - task ok 
-##Сурков - task ok 
+##Aliev - task ok \n 
+##Boyarnikov - task ok \n  
+##Fenderov - task ok \n 
+##Gamayunov - task ok \n 
+##Gaponov - task ok \n 
+##Melnikov - task ok \n 
+##Mishin - task ok \n 
+##Novichkov - task ok \n 
+##Pyzh - task ok \n 
+##Sagatbaeva - task ok \n 
+##Sazhin - task ok \n 
+##Stolpovskiy - task ok \n  
+##Tugunchinov - task ok \n 
+##Вахитов - task ok \n 
+##Дрябин - task ok \n 
+##Климов - task ok \n 
+##Коваль - task ok \n 
+##Пластинина - task ok \n  
+##Пронякин - task ok \n 
+##Староверов - task ok \n 
+##Сурков - task ok \n 
