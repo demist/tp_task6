@@ -99,7 +99,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Aliev
+* who is trying to break: Aliev Мельников
 ### Пронякин
 * task ok
 * not verified 
