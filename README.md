@@ -65,6 +65,11 @@
 * not verified 
 * not broken
 * who is trying to break:
+### Sedova
+* task ok
+* not verified 
+* not broken
+* who is trying to break:
 ### Stolpovskiy
 * task ok
 * not verified 
