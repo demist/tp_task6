@@ -19,7 +19,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Коваль
+* who is trying to break:
 ### Gamayunov
 * task ok
 * not verified 
