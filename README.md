@@ -89,7 +89,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Mishin
+* who is trying to break: Mishin Коваль
 ### Коваль
 * task ok
 * not verified 
