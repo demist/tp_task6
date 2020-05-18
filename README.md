@@ -74,7 +74,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Fenderov Aliev
+* who is trying to break: Fenderov Aliev, Мишин данила
 ### Вахитов
 * task ok
 * not verified 
