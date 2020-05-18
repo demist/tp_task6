@@ -84,7 +84,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Sazhin
+* who is trying to break: Sazhin, Boyarnikov
 ### Климов
 * task ok
 * not verified 
