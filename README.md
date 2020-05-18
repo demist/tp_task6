@@ -94,7 +94,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Sazhin
+* who is trying to break: Sazhin, Mishin
 ### Пластинина
 * task ok
 * not verified 
@@ -114,4 +114,4 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Mikhailov, Mishin
+* who is trying to break: Mikhailov
