@@ -74,7 +74,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Fenderov Aliev, Мишин данила
+* who is trying to break: Fenderov Aliev
 ### Вахитов
 * task ok
 * not verified 
@@ -89,7 +89,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break:
+* who is trying to break: Mishin
 ### Коваль
 * task ok
 * not verified 
@@ -104,7 +104,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Fenderov Pyzh, Mishin Danila
+* who is trying to break: Fenderov Pyzh
 ### Староверов 
 * task ok
 * not verified 
@@ -114,4 +114,4 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Mikhailov
+* who is trying to break: Mikhailov, Mishin
