@@ -5,118 +5,37 @@
 Если взлом удался - в соответствующую папку проекта в репозитории надо залить видео работающего взломанного приложения. Имя файла - ваша фамилия - до 23:59 21 мая. 
 После этого до 17:00 22 мая вы должны в ту же папку залить текстовый файл (название - Ваша фамилия), в котором кратко описан сценарий взлома (НЕ ВЫКЛАДЫВАЙТЕ ЭТОТ ФАЙЛ ДО 23:59 21 мая). 
 
-### Aliev
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Boyarnikov
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Fenderov
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Gamayunov
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Gaponov
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Melnikov
-* task ok
-* not verified 
-* not broken
+### Aliev 0.5 
+### Boyarnikov 0.5 
+### Fenderov 0.6
+### Gamayunov 0.5
+### Gaponov 0.5
+### Melnikov 0.5
 * who is trying to break: Столповский Пластинина
-### Mikhailov
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Mishin
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Novichkov
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Pyzh
-* task ok
-* not verified 
-* not broken
+### Mikhailov 0.5
+### Mishin 0.5
+### Novichkov 0.5
+### Pyzh 0.5
 * who is trying to break: Дрябин
-### Sagatbaeva
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Sazhin
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Sedova
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Stolpovskiy
-* task ok
-* not verified 
-* not broken
+### Sagatbaeva 0.5
+### Sazhin 0.6
+### Sedova 0.5
+### Stolpovskiy 0.5
 * who is trying to break: Пластинина Pyzh
-### Tugunchinov
-* task ok
-* not verified 
-* not broken
+### Tugunchinov 0.5
 * who is trying to break: Fenderov Aliev
-### Вахитов
-* task ok
-* not verified 
-* not broken
+### Вахитов 0.5
 * who is trying to break: Староверов
-### Дрябин
-* task ok
-* not verified 
-* not broken
+### Дрябин 0.5
 * who is trying to break: Sazhin, Boyarnikov
-### Климов
-* task ok
-* not verified 
-* not broken
+### Климов 0.5
 * who is trying to break: Mishin Коваль
-### Коваль
-* task ok
-* not verified 
-* not broken
+### Коваль 0.5
 * who is trying to break: Sazhin, Mishin
-### Пластинина
-* task ok
-* not verified 
-* not broken
+### Пластинина 0.5
 * who is trying to break: Aliev Мельников
-### Пронякин
-* task ok
-* not verified 
-* not broken
+### Пронякин 0.5
 * who is trying to break: Fenderov Pyzh
-### Староверов 
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Сурков
-* task ok
-* not verified 
-* not broken
+### Староверов 0.5
+### Сурков 0.6
 * who is trying to break: Mikhailov
