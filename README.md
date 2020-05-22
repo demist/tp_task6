@@ -1,117 +1,29 @@
-# Правила игры 
-Если вы прислали вовремя задание и получили доступ в качестве коллаборатора - вы можете попробовать взломать и чужие проекты. 
-Для это необходимо выбрать проекты, который вы хотите ломать и в соответствующем разделе в данном файле вписать свою фамилию в пункт "who is trying to break". 
-Каждый человек может попробовать ломать два проекта, на каждый проект "ломать" могут записаться не более 2 человек. 
+# Правила
 Если взлом удался - в соответствующую папку проекта в репозитории надо залить видео работающего взломанного приложения. Имя файла - ваша фамилия - до 23:59 21 мая. 
 После этого до 17:00 22 мая вы должны в ту же папку залить текстовый файл (название - Ваша фамилия), в котором кратко описан сценарий взлома (НЕ ВЫКЛАДЫВАЙТЕ ЭТОТ ФАЙЛ ДО 23:59 21 мая). 
 
-### Aliev
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Boyarnikov
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Fenderov
-* task ok
-* not verified 
-* not broken
-* who is trying to break: Коваль
-### Gamayunov
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Gaponov
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Melnikov
-* task ok
-* not verified 
-* not broken
-* who is trying to break: Столповский Пластинина
-### Mikhailov
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Mishin
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Novichkov
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Pyzh
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Sagatbaeva
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Sazhin
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Stolpovskiy
-* task ok
-* not verified 
-* not broken
-* who is trying to break: Пластинина Pyzh
-### Tugunchinov
-* task ok
-* not verified 
-* not broken
-* who is trying to break: Fenderov Aliev
-### Вахитов
-* task ok
-* not verified 
-* not broken
-* who is trying to break: Староверов
-### Дрябин
-* task ok
-* not verified 
-* not broken
-* who is trying to break: Sazhin, Boyarnikov
-### Климов
-* task ok
-* not verified 
-* not broken
-* who is trying to break: Mishin Коваль
-### Коваль
-* task ok
-* not verified 
-* not broken
-* who is trying to break: Sazhin, Mishin
-### Пластинина
-* task ok
-* not verified 
-* not broken
-* who is trying to break: Aliev Мельников
-### Пронякин
-* task ok
-* not verified 
-* not broken
-* who is trying to break: Fenderov Pyzh
-### Староверов 
-* task ok
-* not verified 
-* not broken
-* who is trying to break:
-### Сурков
-* task ok
-* not verified 
-* not broken
-* who is trying to break: Mikhailov
+| Фамилия | Баллы за задание | Кто ломает | Баллы за защиту | Баллы за атаку | Итоговые баллы |
+| :---: | :---: | :---:| :---: | :---: | :---: |
+| Алиев | 0.5 | - | 0 | - | 0.5 |
+| Боярников | 0.5 | - | 0 | - | 0.5 |
+| Фендеров | 0.6 | - | 0 | 0.5 | 1.1 |
+| Гамаюнов | 0.5 | - | 0 | - | 0.5 |
+| Гапонов | 0.5 | - | 0 | - | 0.5 |
+| Мельников | 0.5 | Столповский Пластинина | 0 | - | 0.5 |
+| Михайлов | 0.5 | - | 0 | 0.5 | 1 |
+| Мишин | 0.5 | - | 0 | 0.5 | 1 |
+| Новичков | 0.5 | - | 0 | - | 0.5 |
+| Пыж | 0.5 | Дрябин | 0 | - | 0.5 |
+| Сагатбаева | 0.5 | - | 0 | - | 0.5 |
+| Сажин | 0.6 | - | 0 | 0.5 | 1.1 |
+| Седова | 0.5 | - | 0 | - | 0.5 |
+| Столповский | 0.5 | Пластинина Pyzh | 0 | - | 0.5 |
+| Тугунчинов | 0.5 | Fenderov Aliev | -0.25 | - | 0.25 |
+| Вахитов | 0.5 | Староверов | -0.25 | - | 0.25 |
+| Дрябин | 0.5 | Sazhin, Boyarnikov | -0.25 | - | 0.25 |
+| Климов | 0.5 | Mishin Коваль | -0.25 | - | 0.25 |
+| Коваль | 0.5 | Sazhin, Mishin | -0.25 | 0.5 | 0.75 |
+| Пластинина | 0.5 | Aliev Мельников | 0 | - | 0.5 |
+| Пронякин | 0.5 | Fenderov Pyzh | -0.25 | - | 0.25 |
+| Староверов | 0.5 | - | 0 | 0.5 | 1 |
+| Сурков | 0.6 | Mikhailov | -0.25 | - | 0.35 |
